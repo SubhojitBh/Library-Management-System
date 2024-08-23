@@ -5,6 +5,7 @@ A Java-based Library Management System designed to handle book inventories, user
 This Library Management System is a Java application that allows for managing a library's book inventory, user accounts, and borrowing/returning of books. The project is designed to be modular and easy to extend.
 
 ## Project Structure
+```sh
 LibraryManagementSystem/
 |-- src/
 |   |-- library/
@@ -19,6 +20,8 @@ LibraryManagementSystem/
 |           |-- TransactionList.java
 |    |-- Main.java
 |-- bin/ (for the .class files)
+
+```
 
 
 ## Features
